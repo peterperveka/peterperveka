@@ -17,8 +17,4 @@ I'm focused on building practical apps and learning modern development tools. Cu
 - Experimenting with UI/UX design and user-generated content
 
 ## 📫 Let's Connect
-Feel free to check out my repositories or reach out if you're interested in collaborating on projects!
-
----
-
-💡 *Always learning, always building.*
+Feel free to reach out if you're interested in collaborating on projects!

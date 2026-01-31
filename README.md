@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Peter Perveka 👋
 
-<!--
-**peterperveka/peterperveka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+Student of **Programming and Application Development** at **Masaryk University** in Brno, Czech Republic.
 
-Here are some ideas to get you started:
+I'm focused on building practical apps and learning modern development tools. Currently working with **React** and **Java**, exploring algorithms, web development, and UI/UX design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, Java, SQL
+- **Frontend:** React, HTML/CSS
+- **Tools:** VS Code, Git, LaTeX, Obsidian
+- **Interests:** Data structures & algorithms, web development, automation, AI/ML
+
+## 🔭 Current Focus
+- Building small productivity apps
+- Learning advanced algorithms and data structures
+- Experimenting with UI/UX design and user-generated content
+
+## 📫 Let's Connect
+Feel free to check out my repositories or reach out if you're interested in collaborating on projects!
+
+---
+
+💡 *Always learning, always building.*

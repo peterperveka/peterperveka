@@ -6,7 +6,7 @@ Student of **Programming and Application Development** at **Masaryk University**
 I'm focused on building practical apps and learning modern development tools. Currently working with **React** and **Java**, exploring algorithms, web development, and UI/UX design.
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, Java, SQL
+- **Languages:** Python, C, Java, SQL
 - **Frontend:** React, HTML/CSS
 - **Tools:** VS Code, Git, LaTeX, Obsidian
 - **Interests:** Data structures & algorithms, web development, automation, AI/ML

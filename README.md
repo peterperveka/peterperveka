@@ -1,20 +1,22 @@
 # Hi, I'm Peter Perveka 👋
 
-## 🎓 About Me
-Student of **Programming and Application Development** at **Masaryk University** in Brno, Czech Republic.
-
-I'm focused on building practical apps and learning modern development tools. Currently working with **React** and **Java**, exploring algorithms, web development, and UI/UX design.
+Student of **Programming and App Development** at **Masaryk University, Faculty of Informatics** in Brno (2024–2027).
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, C, Java, SQL
-- **Frontend:** React, HTML/CSS
-- **Tools:** VS Code, Git, LaTeX, Obsidian
-- **Interests:** Data structures & algorithms, web development, automation, AI/ML
+**Advanced:** C, Python  
+**Intermediate:** Java, Git, TypeScript, AI Tooling  
+**Familiar:** Docker, React, SQL, Linux
 
-## 🔭 Current Focus
-- Building small productivity apps
-- Learning advanced algorithms and data structures
-- Experimenting with UI/UX design and user-generated content
+## 🔭 Projects
+
+**Study Manager** — Time Management for Students *(School, 2026)*  
+Collaborated in a team of 4 across all layers of the application. Independently designed the user interface, user flows, and frontend architecture, and implemented the REST API, authentication, and database layer.
+
+**OpenClaw** — AI Bot with MCP Integration *(Personal, 2026)*  
+Configured and deployed a bot with AI, API integration, and Model Context Protocol support. Hosted on a VPS with Linux server management, Docker containerization, and Git version management.
+
+## 🌍 Languages
+English (B2) · Czech (B1) · Slovak (Native)
 
 ## 📫 Let's Connect
-Feel free to reach out if you're interested in collaborating on projects!
+Open to internship opportunities and collaboration.
